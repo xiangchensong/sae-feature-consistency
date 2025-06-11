@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+synthetic/deprecated
+synthetic/data
+synthetic/output
+
+examples/output*
+examples/deprecated
+examples/wandb
+reset_git_history.sh

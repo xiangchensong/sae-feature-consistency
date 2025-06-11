@@ -1,0 +1,26 @@
+[project]
+name = "isae"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "circuitsvis>=1.43.3",
+    "datasets>=3.5.0",
+    "einops>=0.8.1",
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.6",
+    "llvmlite>=0.44.0",
+    "matplotlib>=3.10.1",
+    "nbformat>=5.10.4",
+    "nnsight>=0.3.7,<0.4.0",
+    "pandas>=2.2.3",
+    "plotly>=6.0.1",
+    "scipy>=1.15.2",
+    "torch>=2.6.0",
+    "tqdm>=4.67.1",
+    "transformers>=4.51.3",
+    "umap-learn>=0.5.7",
+    "wandb>=0.19.9",
+    "zstandard>=0.23.0",
+]
